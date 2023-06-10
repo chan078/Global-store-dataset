@@ -3,3 +3,5 @@
 ## Description
 
 ## Dashboard
+
+![Dashboard](./img/dashboard.png)
